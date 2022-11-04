@@ -1,0 +1,81 @@
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe.config
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.pdb
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.frmMain.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.Properties.Resources.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmNhanVien.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csproj.GenerateResource.Cache
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.exe
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.pdb
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHoaDon.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmKhachHang.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHangHoa.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmDangNhap.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.Introduce.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSNhanVien.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSCTHD.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSHangHoa.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSKhachHang.resources
+F:\ChuyênDềDotNEt\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csprojResolveAssemblyReference.cache
+F:\1711546421_QuachNhatDuy_ChuyenDeDotNet\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe.config
+F:\1711546421_QuachNhatDuy_ChuyenDeDotNet\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.exe
+F:\1711546421_QuachNhatDuy_ChuyenDeDotNet\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.pdb
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe.config
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.exe
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.pdb
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.pdb
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csprojResolveAssemblyReference.cache
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSCTHD.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSHangHoa.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSKhachHang.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSNhanVien.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmDangNhap.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHangHoa.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHoaDon.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmKhachHang.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.frmMain.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.Properties.Resources.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmNhanVien.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.Introduce.resources
+F:\NTT\1711546421_QuachNhatDuy_ChuyenDeDotNet - Copy\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csproj.GenerateResource.Cache
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe.config
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.pdb
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csprojAssemblyReference.cache
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSCTHD.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSHangHoa.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSKhachHang.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSNhanVien.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmDangNhap.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHangHoa.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHoaDon.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmKhachHang.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.frmMain.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.Properties.Resources.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmNhanVien.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.Introduce.resources
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csproj.GenerateResource.cache
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csproj.CoreCompileInputs.cache
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.exe
+F:\NTT\QL_TTNoiThat\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.pdb
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe.config
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.exe
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\bin\Debug\QL_TTNoiThat.pdb
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csprojAssemblyReference.cache
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSCTHD.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSHangHoa.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSKhachHang.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.DSNhanVien.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmDangNhap.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHangHoa.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmHoaDon.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmKhachHang.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.frmMain.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.Properties.Resources.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.frmNhanVien.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.View.Introduce.resources
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csproj.GenerateResource.cache
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.csproj.CoreCompileInputs.cache
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.exe
+F:\NTT\1711546421_QUACHNHATDUY_DACN\QL_TTNoiThat\obj\Debug\QL_TTNoiThat.pdb
